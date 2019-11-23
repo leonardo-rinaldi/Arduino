@@ -1,3 +1,1 @@
 # Arduino
-
-ciao a tutti
