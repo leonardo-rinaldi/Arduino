@@ -1,4 +1,5 @@
 //Test you LCD display 
+//You can use this code to test your lcd display
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
