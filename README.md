@@ -1,3 +1,3 @@
 # Arduino
 
-Hi, here i upload some Arduino code 
+Hi, here i upload some simple Arduino projects that i made.
