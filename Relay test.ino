@@ -1,11 +1,11 @@
 //A simple code for relays test
 
-#define RELAY1 2
+#define RELAY1 2                         //define the pins
 #define RELAY2 3
 
 void setup() {
 
-  pinMode(RELAY1, OUTPUT);
+  pinMode(RELAY1, OUTPUT);              //The two pins defined are two outputs
   pinMode(RELAY2, OUTPUT);
 
 }
