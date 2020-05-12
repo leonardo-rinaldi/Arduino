@@ -1,2 +1,2 @@
-This is a prototype of a robot that i created. In this moment he can only avoid obstacles because it is a prototype and i didnt added other functionality :)
+This is a prototype of a robot that I created. In this moment he can only avoid obstacles because it is a prototype and I didn't added other functionality :)
 To move he use two motors in the rear that utilize a H bridge (L293D) for the reversal. To avoid the obstacles uses three HC-SR04 sensor (front, left and right). It is all controlled by an Arduino Uno board. Regarding the power supply, it works via some 18650 batteries.
