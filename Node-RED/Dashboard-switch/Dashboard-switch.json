@@ -1,0 +1,54 @@
+[
+    {
+        "id": "58046b7e.f011b4",
+        "type": "ui_switch",
+        "z": "ef9d6079.6b4c3",
+        "name": "",
+        "label": "Led verde",
+        "tooltip": "",
+        "group": "a498a0f6.efa01",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "x": 180,
+        "y": 60,
+        "wires": [
+            [
+                "92148b35.818708",
+                "f6db6eac.eea29"
+            ]
+        ]
+    },
+    {
+        "id": "a498a0f6.efa01",
+        "type": "ui_group",
+        "z": "",
+        "name": "Switch",
+        "tab": "d1ef41a7.34b0d",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d1ef41a7.34b0d",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
